@@ -55,7 +55,6 @@ Reports are written to:
 ## Included Files
 
 - English README
-- German-translated script version
 
 ## Disclaimer
 
